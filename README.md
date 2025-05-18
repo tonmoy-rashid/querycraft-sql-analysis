@@ -1168,10 +1168,7 @@ This repository contains educational materials inspired by:
 ```sql
 -- Example of code attribution within SQL files:
 -- Concept based on DataCamp's "Associate Data Analyst" course
--- Modified/Extended by [Your Name] for learning purposes
-=======
-# querycraft-sql-analysis
->>>>>>> origin/main
+-- Modified/Extended by [Tonmoy Rashid] for learning purposes
 ```
 
 ## License
