@@ -1,11 +1,11 @@
-<<<<<<< HEAD
+
 # SQL for Data Storytelling & Decision Support
 
 ![SQL](https://img.shields.io/badge/SQL-Database-blue) ![Tutorial](https://img.shields.io/badge/Type-Tutorial-green) ![Status](https://img.shields.io/badge/Status-In%20Progress-orange)
 
 **Author**: Tonmoy Rashid   
 **Created**: 2025-04-27  
-**Updated**: 2025-05-10
+**Updated**: 2025-05-10 
 **Resource**: 
 
 ---
@@ -1172,3 +1172,8 @@ This repository contains educational materials inspired by:
 =======
 # querycraft-sql-analysis
 >>>>>>> origin/main
+```
+
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) for more details.
